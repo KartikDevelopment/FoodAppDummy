@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoodApp.iml" filepath="$PROJECT_DIR$/.idea/modules/FoodApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/494584883/FoodApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/494584883/FoodApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/494584883/FoodApp.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/494584883/FoodApp.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/494584883/FoodApp.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/494584883/FoodApp.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/494584883/FoodApp.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/494584883/FoodApp.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/901855243/FoodApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/901855243/FoodApp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/901855243/FoodApp.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/901855243/FoodApp.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/901855243/FoodApp.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/901855243/FoodApp.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/901855243/FoodApp.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/901855243/FoodApp.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2109491555/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-2109491555/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2109491555/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-2109491555/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2109491555/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-2109491555/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>
